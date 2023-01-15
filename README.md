@@ -1,3 +1,3 @@
 # Jasmim-Drigo
 
-I am a Linguistics PhD student at Cornell University.
+I am a Linguistics PhD candidate at Cornell University.
